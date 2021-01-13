@@ -1,9 +1,10 @@
 # search-a-music
 
-Group:
-1.Jaskaran Singh
-2.Inderpreet Singh
-3.Satnam Singh
+Group:-
+Inderpreet Singh
+Jaskaran Singh
+Satnam Singh
+
 
 
 
